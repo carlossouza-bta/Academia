@@ -44,7 +44,7 @@ public class ConsultarClientes extends javax.swing.JFrame {
         jLabel1.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
         jLabel1.setText("Selecione a opção que deseja consultar");
 
-        botaoManterClientes.setText("Cliente em dia");
+        botaoManterClientes.setText("Manter clientes");
         botaoManterClientes.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 botaoManterClientesActionPerformed(evt);
